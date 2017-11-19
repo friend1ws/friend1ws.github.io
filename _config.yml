@@ -1,6 +1,0 @@
-name: Yuichi Shiraishi
-markdown: redcarpet
-highlighter: pygments
-exclude: [MEMO.txt, Gemfile, Gemfile.lock] 
-
-theme: jekyll-theme-minimal

@@ -1,7 +1,0 @@
-2015 07/09
-
-before "buldle install", you may need to type
-"bundle config build.nokogiri --use-system-libraries"
-for enabling nokogiri to be installed safely
-(http://d.akiroom.com/2014-08/nokogiri-libxml2-version-2-6-21-or-later-is-required/)
-
