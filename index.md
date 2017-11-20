@@ -9,14 +9,11 @@ I have been working on developing statistical methods and analytical platforms f
 ### [](#header-3)Variant Detection
 
 Thanks to the advances in high-throughput sequence technologies,
-genome-wide identification of genomic and transcriptomic changes is
+genome-wide identification of genomic and transcriptome aberrations is
 now possible. However, due to ambiguities of short read alignment and
-sequence errors, several types of genomic and transcriptome changes
-(such as structural variations, gene fusions, complex indels and so
-on) is stilll challenging issue. Furthermore, identification of
-several omics data such as genomic variants influencing on
-transcriptome changes (such as gene expression, splicing alteration
-and so on) is still in imature phases. 
+sequence errors, detection of several types of genomic and transcriptome changes
+(such as structural variations, gene fusions, complex indels and so on) is still challenging issue. 
+Furthermore, elucidation of the relationships among inter-omics somatic changes is yet in an early phase.
 
 I've been working on develping statistical methods for identifying variety of genomic and
 transcriptomic changes including but not limited to 
@@ -29,9 +26,7 @@ Currently, I'm especially focusing on the relationships between genomic transcri
 We have developed a novel statistical framework to identify somatic variants causing splicing changes,
 and applied it to ~9,000 cancer exome and transcriptome sequencing data, 
 generating a catalogue of splicing associated variants ([Shiraishi et al., bioRxiv, 2017](https://www.biorxiv.org/content/early/2017/09/28/162560)).
-I would like to reveal 
-and are planning to elucidate their relationships in various aspects.
-
+The next step would be to obtain more comprehensive relationships through further analysis (especially whole genome sequencing data). Also, I would like to tailor these insight to precision medicine.
 
 
 ### [](#header-3)Cancer Genome Analysis Platform
@@ -46,6 +41,7 @@ Furthermore, we have identified common aberration of an immune checkpoint gene i
 ([Kataoka, Shiraishi et al., Nature, 2016](https://www.nature.com/articles/nature18294)) through pan-cancer analysis.
 Also, we have developed a software for generating dynamic reports 
 that are frequently necessary in the post analytical phases of cancer genome studies
+([Okada et al., bioRxiv, 2017](https://www.biorxiv.org/content/early/2017/10/02/194035)).
 
 Now, the bioinformatics community is rapidly shifting to use cloud computing,
 which is highly expected to enhance sharing of excessive amount of sequencing data rapidly accumurating all over the world,
