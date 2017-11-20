@@ -4,7 +4,7 @@ layout: default
 
 ## [](#header-2)Research Interest
 
-I have been working on developing statistical methods and analytical platforms for cancer genome sequencing data.
+I have been working on developing statistical methods and platforms for cancer genome sequencing data analysis.
 
 ### [](#header-3)Variant Detection and Interpretation
 
