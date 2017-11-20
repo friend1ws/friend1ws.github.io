@@ -42,12 +42,12 @@ adult T cell leukemia/lymphoma ([Kataoka K, Nagata Y, Kitanaka A, Shiraishi Y et
 Furthermore, we have identified common aberration of an immune checkpoint gene in multiple cancers 
 ([Kataoka, Shiraishi et al., Nature, 2016](https://www.nature.com/articles/nature18294)) through pan-cancer analysis.
 Also, we have developed a software for generating dynamic reports 
-that are frequently necessary in the post analytical phases of cancer genome studies
+that are frequently necessary for the post-analytical phases of cancer genome studies
 ([Okada et al., bioRxiv, 2017](https://www.biorxiv.org/content/early/2017/10/02/194035)).
 
 Now, the bioinformatics community is rapidly shifting to use cloud computing,
-which is highly expected to enhance sharing of excessive amount of sequencing data rapidly accumurating all over the world,
-as well as analytical workflows developed by each research insitute.
+which is highly expected to enhance sharing of the excessive amount of sequencing data rapidly accumulating all over the world,
+as well as analytical workflows developed by each research institute.
 I'm very interested in devising an effective framework for using cloud computing to cancer genome sequencing data.
 
 
