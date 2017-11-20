@@ -54,6 +54,7 @@ Thanks to the advances in high-throuput sequencing technologies, massive.
 These distinctive patterns have become known as “mutation signatures”. 
 Each mutation signature may be associated with a specific kind of carcinogen, such as tobacco smoke or ultraviolet light. Identifying mutation signatures therefore has the potential to identify new carcinogens, and yield new insights into the mechanisms and causes of cancer, In this paper, we introduce new statistical tools for tackling this important problem. These tools provide more robust and interpretable mutation signatures compared to previous approaches, as we demonstrate by applying them to large-scale cancer genomic data.
 
+---
 
 ## [](#header-2)Selected Publications
 
