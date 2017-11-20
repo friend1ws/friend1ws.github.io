@@ -6,7 +6,7 @@ layout: default
 
 I have been working on developing statistical methods and analytical platforms for cancer genome sequencing data.
 
-### [](#header-3)Variant Detection
+### [](#header-3)Variant Detection and Interpretation
 
 Thanks to the advances in high-throughput sequence technologies,
 genome-wide identification of genomic and transcriptome aberrations is
