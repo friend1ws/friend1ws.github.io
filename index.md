@@ -15,20 +15,20 @@ sequence errors, detection of several types of genomic and transcriptome changes
 (such as structural variations, gene fusions, complex indels and so on) is still challenging issue. 
 Furthermore, elucidation of the relationships among inter-omics somatic changes is yet in an early phase.
 
-I've been working on develping statistical methods for identifying variety of genomic and
+I've been working on developing statistical methods for identifying variety of genomic and
 transcriptomic changes including but not limited to 
 somatic mutations ([Shiraishi et al., Nucleic Acids Research, 2013](https://www.ncbi.nlm.nih.gov/pubmed/23471004)),
 gene fusions ([Shiraishi et al., PLoS One, 2014](https://www.ncbi.nlm.nih.gov/pubmed/25526364)),
 structural variations ([GenomonSV](https://github.com/Genomon-Project/GenomonSV)),
 which have been integrated into our cancer genome analytical platform.
 In addition, I have devised a novel statistical approach for extracting characteristic patterns of somatic mutations
-(so called *mutation signature*), in which the mutation signatures are more robust and interpretable compared to previous approaches ([Shiraishi et al., PLoS Genetics, 2015](https://doi.org/10.1371/journal.pgen.1005657)).
+(so-called *mutation signatures*), in which the mutation signatures are more robust and interpretable compared to previous approaches ([Shiraishi et al., PLoS Genetics, 2015](https://doi.org/10.1371/journal.pgen.1005657)).
 
 Currently, I'm especially focusing on the relationships between genomic transcriptomic changes.
 We have developed a novel statistical framework to identify somatic variants causing splicing changes,
 and applied it to ~9,000 cancer exome and transcriptome sequencing data, 
-generating a catalogue of splicing associated variants ([Shiraishi et al., bioRxiv, 2017](https://www.biorxiv.org/content/early/2017/09/28/162560)).
-The next step would be to obtain more comprehensive relationships through further analysis (especially whole genome sequencing data). Also, I would like to tailor these insight to precision medicine.
+generating a catalog of splicing associated variants ([Shiraishi et al., bioRxiv, 2017](https://www.biorxiv.org/content/early/2017/09/28/162560)).
+The next step would be to obtain more comprehensive relationships through further analysis (especially whole genome sequencing data). Also, I would like to tailor these insights to precision medicine.
 
 
 ### [](#header-3)Cancer Genome Analysis Platform
