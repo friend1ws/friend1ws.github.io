@@ -73,7 +73,7 @@ bioRxiv, doi: https://doi.org/10.1101/162560.
 Only peer reviewed journals to which I have contributed as a first, co-first or corresponding author are shown.
 More comprehensive list may be found in [here](https://www.ncbi.nlm.nih.gov/pubmed/?term=Yuichi+Shiraishi).
 
-*   Kataoka K\*, _Shiraishi Y_\*, Takeda Y\* et al.
+*   Kataoka K\*, __Shiraishi Y__\*, Takeda Y\* et al.
 [Aberrant PD-L1 expression through 3'-UTR disruption in multiple cancers](https://www.nature.com/articles/nature18294).
 Nature. 2016 Jun 16;534(7607):402-6.
 *   Shiraishi Y, Tremmel G, Miyano S, Stephens M. 
