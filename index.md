@@ -21,6 +21,8 @@ somatic mutations ([Shiraishi et al., Nucleic Acids Research, 2013](https://www.
 gene fusions ([Shiraishi et al., PLoS One, 2014](https://www.ncbi.nlm.nih.gov/pubmed/25526364)),
 structural variations ([GenomonSV](https://github.com/Genomon-Project/GenomonSV)),
 which have been integrated into our cancer genome analytical platform.
+In addition, I have devised a novel statistical approach for extracting characteristic patterns of somatic mutations
+(so called *mutation signature*), in which the mutation signatures are more robust and interpretable compared to previous approaches ([Shiraishi et al., PLoS Genetics, 2015](https://doi.org/10.1371/journal.pgen.1005657)).
 
 Currently, I'm especially focusing on the relationships between genomic transcriptomic changes.
 We have developed a novel statistical framework to identify somatic variants causing splicing changes,
@@ -48,15 +50,6 @@ which is highly expected to enhance sharing of excessive amount of sequencing da
 as well as analytical workflows developed by each research insitute.
 I'm very interested in devising an effective framework for using cloud computing to cancer genome sequencing data.
 
-
-### [](#header-3)Mutation Signature
-
-Cells throughout our body acquire somatic mutations caused by DNA replication errors or exposure to environmental mutagens such as tobacco smoking and some of these mutations can cause cancer.
-Different cancer types, and even different instances of the same cancer types, can show different distinctive patterns of somatic mutations. 
-For example, C > A mutations are abundant in lung caners whereas C > T and CC > TT mutations are frequent in skin cancers. 
-Thanks to the advances in high-throuput sequencing technologies, massive.
-These distinctive patterns have become known as “mutation signatures”. 
-Each mutation signature may be associated with a specific kind of carcinogen, such as tobacco smoke or ultraviolet light. Identifying mutation signatures therefore has the potential to identify new carcinogens, and yield new insights into the mechanisms and causes of cancer, In this paper, we introduce new statistical tools for tackling this important problem. These tools provide more robust and interpretable mutation signatures compared to previous approaches, as we demonstrate by applying them to large-scale cancer genomic data.
 
 ---
 
