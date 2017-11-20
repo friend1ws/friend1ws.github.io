@@ -22,7 +22,8 @@ I've been working on develping statistical methods for identifying variety of ge
 transcriptomic changes including but not limited to 
 somatic mutations ([Shiraishi et al., Nucleic Acids Research, 2013](https://www.ncbi.nlm.nih.gov/pubmed/23471004)),
 gene fusions ([Shiraishi et al., PLoS One, 2014](https://www.ncbi.nlm.nih.gov/pubmed/25526364)),
-structural variations ([GenomonSV](https://github.com/Genomon-Project/GenomonSV)).
+structural variations ([GenomonSV](https://github.com/Genomon-Project/GenomonSV)),
+which have been integrated into our cancer genome analytical platform.
 
 Currently, I'm especially focusing on the relationships between genomic transcriptomic changes.
 We have developed a novel statistical framework to identify somatic variants causing splicing changes,
@@ -33,21 +34,24 @@ and are planning to elucidate their relationships in various aspects.
 
 
 
-### [](#header-3)Genome Analysis Platform
+### [](#header-3)Cancer Genome Analysis Platform
 
-I have worked on developing cancer genome analytical pipeline, which
-we call [Genomon](https://genomon-project.github.io/GenomonPagesR/) since 2011, and have contributed to detections of a number of
-novel cancer drivers in 
-myelodysplasia ([Yoshida, Sanada, Shiraishi et al., Nature, 2011](https://www.ncbi.nlm.nih.gov/pubmed/21909114)),
-kidney cancers ([Sato, Yoshizato, Shiraishi et al., Nature Genetics, 2013](https://www.ncbi.nlm.nih.gov/pubmed/23797736)),
-adult T cell leukemia/lymphoma ([Kataoka K, Nagata Y, Kitanaka A, Shiraishi Y et al., Nature Genetics, 2015](https://www.ncbi.nlm.nih.gov/pubmed/26437031)) and so on,
-and common aberration of an immune checkpoint gene in multiple cancers 
+I have worked on developing cancer genome analytical pipeline, 
+[Genomon](https://genomon-project.github.io/GenomonPagesR/), 
+and have contributed to detections of a number of novel cancer drivers in 
+myelodysplasia ([Yoshida, Sanada, Shiraishi et al., Nature, 2011](https://www.nature.com/articles/nature10496)),
+kidney cancers ([Sato, Yoshizato, Shiraishi et al., Nature Genetics, 2013](https://www.nature.com/articles/ng.2699)),
+adult T cell leukemia/lymphoma ([Kataoka K, Nagata Y, Kitanaka A, Shiraishi Y et al., Nature Genetics, 2015](https://www.nature.com/articles/ng.3415)) and so on.
+Furthermore, we have identified common aberration of an immune checkpoint gene in multiple cancers 
 ([Kataoka, Shiraishi et al., Nature, 2016](https://www.nature.com/articles/nature18294)) through pan-cancer analysis.
+Also, we have developed a software for generating dynamic reports 
+that are frequently necessary in the post analytical phases of cancer genome studies
 
-Now, the cancer genome analysis
-community is rapidly shifting to use cloud computing, and I'm very
-interested in deploying our analytical pipeline on the cloud
-environment with additional improvements.
+Now, the bioinformatics community is rapidly shifting to use cloud computing,
+which is highly expected to enhance sharing of excessive amount of sequencing data rapidly accumurating all over the world,
+as well as analytical workflows developed by each research insitute.
+I'm very interested in devising an effective framework for using cloud computing to cancer genome sequencing data.
+
 
 ### [](#header-3)Mutation Signature
 
