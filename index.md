@@ -18,15 +18,19 @@ several omics data such as genomic variants influencing on
 transcriptome changes (such as gene expression, splicing alteration
 and so on) is still in imature phases. 
 
-I've been working on develping
-statistical methods for identifying variety of genomic and
+I've been working on develping statistical methods for identifying variety of genomic and
 transcriptomic changes including but not limited to 
 somatic mutations ([Shiraishi et al., Nucleic Acids Research, 2013](https://www.ncbi.nlm.nih.gov/pubmed/23471004)),
 gene fusions ([Shiraishi et al., PLoS One, 2014](https://www.ncbi.nlm.nih.gov/pubmed/25526364)),
 structural variations ([GenomonSV](https://github.com/Genomon-Project/GenomonSV)).
 
-Currently, I'm especially focusing on genomic variants affecting
-splicing changes ([Shiraishi et al., bioRxiv, 2017](https://www.biorxiv.org/content/early/2017/09/28/162560)).
+Currently, I'm especially focusing on the relationships between genomic transcriptomic changes.
+We have developed a novel statistical framework to identify somatic variants causing splicing changes,
+and applied it to ~9,000 cancer exome and transcriptome sequencing data, 
+generating a catalogue of splicing associated variants ([Shiraishi et al., bioRxiv, 2017](https://www.biorxiv.org/content/early/2017/09/28/162560)).
+I would like to reveal 
+and are planning to elucidate their relationships in various aspects.
+
 
 
 ### [](#header-3)Genome Analysis Platform
