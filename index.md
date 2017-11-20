@@ -73,14 +73,14 @@ bioRxiv, doi: https://doi.org/10.1101/162560.
 Only peer reviewed journals to which I have contributed as a first, co-first or corresponding author are shown.
 More comprehensive list may be found in [here](https://www.ncbi.nlm.nih.gov/pubmed/?term=Yuichi+Shiraishi).
 
-*   Kataoka K\*, Shiraishi Y\*, Takeda Y\* et al.
+*   Kataoka K\*, _Shiraishi Y_\*, Takeda Y\* et al.
 [Aberrant PD-L1 expression through 3'-UTR disruption in multiple cancers](https://www.nature.com/articles/nature18294).
 Nature. 2016 Jun 16;534(7607):402-6.
 *   Shiraishi Y, Tremmel G, Miyano S, Stephens M. 
 [A Simple Model-Based Approach to Inferring and Visualizing Cancer Mutation Signatures](https://doi.org/10.1371/journal.pgen.1005657).
 PLoS Genet. 2015 Dec 2;11(12):e1005657.
 [Software](https://github.com/friend1ws/pmsignature).
-*   Kataoka K\+, Nagata Y\*, Kitanaka A\*, Shiraishi Y\*, Shimamura T\*, Yasunaga J\*, Totoki Y\* et al.
+*   Kataoka K\*, Nagata Y\*, Kitanaka A\*, Shiraishi Y\*, Shimamura T\*, Yasunaga J\*, Totoki Y\* et al.
 [Integrated molecular analysis of adult T cell leukemia/lymphoma](https://www.nature.com/articles/ng.3415).
 Nat Genet. 2015 Nov;47(11):1304-15.
 *   Chiba K\*, Shiraishi Y\*, Nagata Y, Yoshida K, Imoto S, Ogawa S, Miyano S. 
