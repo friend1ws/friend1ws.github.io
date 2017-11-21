@@ -106,3 +106,21 @@ Bioinformatics. 2011 Sep 1;27(17):2399-405.
 [Inferring cluster-based networks from differently stimulated multiple time-course gene expression data](https://academic.oup.com/bioinformatics/article/26/8/1073/208191). 
 Bioinformatics. 2010 Apr 15;26(8):1073-81.
 
+---
+
+## [](#header-2)Curriculum Vitae
+
+### [](#header-3)Academic qualifications
+
+* BSc (Engineering), Mathematical Engineering Course, Department of Mathematical Engineering and Information Physics, Faculty of Engineering, The University of Tokyo, 2003.
+* MSc (Information Science and Technology), Department of Mathematical Informatics, Graduate School of Information Science and Technology, The University of Tokyo, 2005.
+* PhD (Statistical Science), Department of Statistical Science, The Graduate University for Advanced Studies, 2008.
+
+### [](#header-3)Professional Records
+
+* Postdoctoral researcher at Cellular Systems Modeling Team, RIKEN Research Center for Allergy and Immunology, Japan (Apr. 2008 – Sep. 2010).
+* Postdoctoral researcher at Laboratory of DNA Information Analysis, Human Genome Center, Institute of Medical Science, The University of Tokyo, Japan (Oct. 2010 – May. 2012).
+* Project Assistant Professor at Laboratory of DNA Information Analysis, Human Genome Center, Institute of Medical Science, The University of Tokyo, Japan (Jun. 2012 – Mar. 2014).
+* Assistant Professor at Laboratory of DNA Information Analysis, Human Genome Center, Institute of Medical Science, The University of Tokyo, Japan (Apr. 2014 – Now).
+* Visiting Scholar, Department of Human Genetics, The University of Chicago. USA. (Apr. 2014 - Nov. 2014).
+* 
