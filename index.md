@@ -123,5 +123,3 @@ Bioinformatics. 2010 Apr 15;26(8):1073-81.
 * Project Assistant Professor at Laboratory of DNA Information Analysis, Human Genome Center, Institute of Medical Science, The University of Tokyo, Japan (Jun. 2012 – Mar. 2014).
 * Assistant Professor at Laboratory of DNA Information Analysis, Human Genome Center, Institute of Medical Science, The University of Tokyo, Japan (Apr. 2014 – Now).
 * Visiting Scholar, Department of Human Genetics, The University of Chicago. USA. (Apr. 2014 - Nov. 2014).
-
----
