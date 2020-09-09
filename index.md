@@ -27,7 +27,7 @@ In addition, I have devised a novel statistical approach for extracting characte
 Currently, I'm especially focusing on the relationships between genomic transcriptomic changes.
 We have developed a novel statistical framework to identify somatic variants causing splicing changes,
 and applied it to ~9,000 cancer exome and transcriptome sequencing data, 
-generating a catalog of splicing associated variants ([Shiraishi et al., bioRxiv, 2017](https://www.biorxiv.org/content/early/2017/09/28/162560)).
+generating a catalog of splicing associated variants ([Shiraishi et al., Genome Research, 2018](https://pubmed.ncbi.nlm.nih.gov/30012835/)).
 The next step would be to obtain more comprehensive relationships through further analysis (especially whole genome sequencing data). Also, I would like to tailor these insights to precision medicine.
 
 
@@ -78,7 +78,7 @@ Nature. 2020 Feb;578(7793):129-136.
 [A comprehensive characterization of cis-acting splicing-associated variants in human cancer](https://genome.cshlp.org/content/early/2018/07/16/gr.231951.117).
 Genome Res. 2018 Aug;28(8):1111-1125.
 * Okada A, Chiba K, Tanaka H, Miyano S, Shiraishi Y. 
-[A framework for generating interactive reports for cancer genome analysis](https://www.biorxiv.org/content/early/2017/10/02/194035).
+[A framework for generating interactive reports for cancer genome analysis](https://joss.theoj.org/papers/10.21105/joss.00457).
 Journal of Open Source Software. 2017 2(20),457, doi:10.21105/joss.00457.
 [Software](https://github.com/Genomon-Project/paplot).
 * Kataoka K\*, Shiraishi Y\*, Takeda Y\* et al.
@@ -128,8 +128,10 @@ Bioinformatics. 2010 Apr 15;26(8):1073-81.
 
 ### [](#header-3)Professional Records
 
-* Postdoctoral researcher at Cellular Systems Modeling Team, RIKEN Research Center for Allergy and Immunology, Japan (Apr. 2008 – Sep. 2010).
-* Postdoctoral researcher at Laboratory of DNA Information Analysis, Human Genome Center, Institute of Medical Science, The University of Tokyo, Japan (Oct. 2010 – May. 2012).
-* Project Assistant Professor at Laboratory of DNA Information Analysis, Human Genome Center, Institute of Medical Science, The University of Tokyo, Japan (Jun. 2012 – Mar. 2014).
-* Assistant Professor at Laboratory of DNA Information Analysis, Human Genome Center, Institute of Medical Science, The University of Tokyo, Japan (Apr. 2014 – Now).
+* Postdoctoral Researcher, Cellular Systems Modeling Team, RIKEN Research Center for Allergy and Immunology, Japan (Apr. 2008 – Sep. 2010).
+* Postdoctoral Researcher, Laboratory of DNA Information Analysis, Human Genome Center, Institute of Medical Science, The University of Tokyo, Japan (Oct. 2010 – May. 2012).
+* Project Assistant Professor, Laboratory of DNA Information Analysis, Human Genome Center, Institute of Medical Science, The University of Tokyo, Japan (Jun. 2012 – Mar. 2014).
+* Assistant Professor, Laboratory of DNA Information Analysis, Human Genome Center, Institute of Medical Science, The University of Tokyo, Japan (Apr. 2014 – Now).
 * Visiting Scholar, Department of Human Genetics, The University of Chicago. USA. (Apr. 2014 - Nov. 2014).
+* Unit Leader, Division of Cellular Signaling, National Cancer Center Research Institute, Japan (Apr. 2018 – Mar. 2020).
+* Chief, Division of Genome Analysis Platform Development, National Cancer Center Research Institute, Japan (Apr. 2020 – Now).
