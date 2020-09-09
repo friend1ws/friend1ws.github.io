@@ -60,11 +60,11 @@ I'm very interested in devising an effective framework for using cloud computing
 * Shiraishi Y, Koya J, Chiba K, Saito Y, Okada A, Kataoka K.
 [Precise characterization of somatic structural variations and mobile element insertions from paired long-read sequencing data with nanomonsv](https://www.biorxiv.org/content/10.1101/2020.07.22.214262v1).
 bioRxiv, doi: https://doi.org/10.1101/2020.07.22.214262.
-[Software](https://github.com/friend1ws/nanomonsv)
-*   Okada A, Chiba K, Tanaka H, Miyano S, Shiraishi Y. 
-[A framework for generating interactive reports for cancer genome analysis](https://www.biorxiv.org/content/early/2017/10/02/194035).
-bioRxiv, doi: https://doi.org/10.1101/194035. 
-[Software](https://github.com/Genomon-Project/paplot).
+[Software](https://github.com/friend1ws/nanomonsv).
+* Shiraishi Y, Chiba K, Okada A.
+[SF3B1ness score: screening SF3B1 mutation status from over 60,000 transcriptomes based on a machine learning approach](https://www.biorxiv.org/content/10.1101/572834v1).
+bioRxiv, doi: https://doi.org/10.1101/572834.
+[Software](https://github.com/friend1ws/SF3B1ness).
 
 ### [](#header-3)Peer reviewed
 
@@ -77,7 +77,10 @@ Nature. 2020 Feb;578(7793):129-136.
 * Shiraishi Y, Kataoka K, Chiba K, Okada A, Kogure Y, Tanaka H, Ogawa S, Miyano S.
 [A comprehensive characterization of cis-acting splicing-associated variants in human cancer](https://genome.cshlp.org/content/early/2018/07/16/gr.231951.117).
 Genome Res. 2018 Aug;28(8):1111-1125.
-[Software](https://github.com/friend1ws/SAVNet).
+* Okada A, Chiba K, Tanaka H, Miyano S, Shiraishi Y. 
+[A framework for generating interactive reports for cancer genome analysis](https://www.biorxiv.org/content/early/2017/10/02/194035).
+Journal of Open Source Software. 2017 2(20),457, doi:10.21105/joss.00457.
+[Software](https://github.com/Genomon-Project/paplot).
 * Kataoka K\*, Shiraishi Y\*, Takeda Y\* et al.
 [Aberrant PD-L1 expression through 3'-UTR disruption in multiple cancers](https://www.nature.com/articles/nature18294).
 Nature. 2016 Jun 16;534(7607):402-6.
