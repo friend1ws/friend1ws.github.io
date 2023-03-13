@@ -1,0 +1,54 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Yuichi Shiraishi
+    - name: Languages
+      value: Japanese(native), English(business)
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD (Statistical Science) 
+      institution: Department of Statistical Science, The Graduate University for Advanced Studies
+      year: 2008 
+      description:
+    - title: MSc (Information Science and Technology)
+      institution: Department of Mathematical Informatics, Graduate School of Information Science and Technology, The University of Tokyo
+      year: 2005 
+      description:
+    - title: BSc (Engineering)
+      institution: Mathematical Engineering Course, Department of Mathematical Engineering and Information Physics, Faculty of Engineering, The University of Tokyo
+      year: 2003
+      description:
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Chief
+      institution: Division of Genome Analysis Platform Development, National Cancer Center Research Institute
+      year: 2020 - 
+      description:
+    - title: Unit Leader
+      institution: Division of Cellular Signaling, National Cancer Center Research Institute
+      year: 2018 - 2020 
+      description:
+    - title: Assistant Professor
+      institution: Laboratory of DNA Information Analysis, Human Genome Center, Institute of Medical Science, The University of Tokyo
+      year: 2014 - 2018
+    - title: Visiting Scholar
+      institution: Department of Human Genetics, The University of Chicago
+      year: 2014
+      description:
+    - title: Project Assistant Professor
+      institution: Laboratory of DNA Information Analysis, Human Genome Center, Institute of Medical Science, The University of Tokyo
+      year: 2012 - 2014
+    - title: Postdoctoral Researcher
+      institution: Laboratory of DNA Information Analysis, Human Genome Center, Institute of Medical Science, The University of Tokyo
+      year: 2010 - 2012
+    - title: Postdoctoral Researcher
+      institution: Cellular Systems Modeling Team, RIKEN Research Center for Allergy and Immunology, Japan
+      year: 2008 - 2010
+
+
+
