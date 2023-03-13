@@ -4,12 +4,12 @@
     - name: Full Name
       value: Yuichi Shiraishi
     - name: Languages
-      value: Japanese(native), English(business)
+      value: Japanese(Native), English(Business)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD (Statistical Science) 
+    - title: Ph.D. (Statistical Science) 
       institution: Department of Statistical Science, The Graduate University for Advanced Studies
       year: 2008 
       description:
@@ -22,7 +22,7 @@
       year: 2003
       description:
 
-- title: Experience
+- title: Work Experience
   type: time_table
   contents:
     - title: Chief
@@ -30,7 +30,7 @@
       year: 2020 - 
       description:
     - title: Unit Leader
-      institution: Division of Cellular Signaling, National Cancer Center Research Institute
+      institution: Division of Cellular Signalling, National Cancer Center Research Institute
       year: 2018 - 2020 
       description:
     - title: Assistant Professor

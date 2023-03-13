@@ -20,12 +20,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I have been working on developing statistical methods and platforms for cancer genome sequencing data analysis.
-Currently, my specific goals includes:
-- Create analysis platform to extract maximum amount of information from cancer genome sequencing data
-- Build an infrastructure that can autonomously acquire information from increasing accumulating omics data
-- Contribute to cancer genome medicine
+I have been working on the development of statistical methods and platforms for cancer genome sequencing data analysis.
+Currently, my specific goals include:
+- Create an analysis platform to extract the maximum amount of information from cancer genome sequencing data,
+- Build an infrastructure that can autonomously acquire information from increasing accumulating omics data,
+- Contribute to cancer genomic medicine.
 
-Please find more detailed description in the projects section.
-If you have interest in our research and would like to work together, feel free to reach out to me by [e-mail](mailto:yuishira@ncc.go.jp)!.
+Please see the projects section for a more detailed description.
+If you are interested in our research and would like to work together, feel free to contact me via [e-mail](mailto:yuishira@ncc.go.jp)!.
  
