@@ -8,10 +8,6 @@ nav_order: 1
 
 ### [](#header-3)Preprint
 
-* Shiraishi Y, Koya J, Chiba K, Saito Y, Okada A, Kataoka K.
-[Precise characterization of somatic structural variations and mobile element insertions from paired long-read sequencing data with nanomonsv](https://www.biorxiv.org/content/10.1101/2020.07.22.214262v1).
-bioRxiv, doi: https://doi.org/10.1101/2020.07.22.214262.
-[Software](https://github.com/friend1ws/nanomonsv).
 * Shiraishi Y, Chiba K, Okada A.
 [SF3B1ness score: screening SF3B1 mutation status from over 60,000 transcriptomes based on a machine learning approach](https://www.biorxiv.org/content/10.1101/572834v1).
 bioRxiv, doi: https://doi.org/10.1101/572834.
@@ -22,6 +18,10 @@ bioRxiv, doi: https://doi.org/10.1101/572834.
 The only peer-reviewed journals to which I have contributed as a first, co-first or corresponding author are shown.
 The more comprehensive list may be found [here](https://www.ncbi.nlm.nih.gov/pubmed/?term=Yuichi+Shiraishi).
 
+* Shiraishi Y\*, Koya J, Chiba K, Okada A, Arai Y, Saito Y, Shibata T, Kataoka K.
+[Precise characterization of somatic complex structural variations from tumor/control paired long-read sequencing data with nanomonsv](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkad526/7201946).
+Nucleic Acids Res. 2023 Jun 20;gkad526.
+[Software](https://github.com/friend1ws/nanomonsv).
 * Shiraishi Y\*, Okada A\* et al.
 [Systematic identification of intron retention associated variants from massive publicly available transcriptome sequencing data](https://www.nature.com/articles/s41467-022-32887-9).
 Nat Commun. 2022 Sep 29;13(1):5357.
