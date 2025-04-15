@@ -8,11 +8,6 @@ nav_order: 1
 
 ### [](#header-3)Preprint
 
-* Iida N, Okada A, Kobayashi Y, Chiba K, Yatabe Y, Shiraishi Y.
-[Systematically developing a registry of splice-site creating variants utilizing massive publicly available transcriptome sequence data](https://www.biorxiv.org/content/10.1101/2024.02.21.581470v1).
-bioRxiv, doi: https://doi.org/10.1101/2024.02.21.581470.
-[Portal site](https://sscvdb.io/).
-
 * Shiraishi Y, Chiba K, Okada A.
 [SF3B1ness score: screening SF3B1 mutation status from over 60,000 transcriptomes based on a machine learning approach](https://www.biorxiv.org/content/10.1101/572834v1).
 bioRxiv, doi: https://doi.org/10.1101/572834.
@@ -22,6 +17,15 @@ bioRxiv, doi: https://doi.org/10.1101/572834.
 
 The only peer-reviewed journals to which I have contributed as a first, co-first or corresponding author are shown.
 The more comprehensive list may be found [here](https://www.ncbi.nlm.nih.gov/pubmed/?term=Yuichi+Shiraishi).
+
+* Iida N, Okada A, Kobayashi Y, Chiba K, Yatabe Y, Shiraishi Y.
+[Systematically developing a registry of splice-site creating variants utilizing massive publicly available transcriptome sequence data](https://www.nature.com/articles/s41467-024-55185-y).
+Nat Commun. 2025 Jan 9;16(1):426.
+[Portal site](https://sscvdb.io/).
+
+* Mateos RN, Winardi W, Chiba K, Okada A, Suzuki A, Mitsuishi Y, Shiraishi Y.
+[Splicing junction-based classifier for the detection of abnormal constitutive activation of the KEAP1-NRF2 system](https://www.nature.com/articles/s41540-024-00475-w).
+NPJ Syst Biol Appl. 2024 Dec 6;10(1):147.
 
 * Nakamura W, Hirata M, Oda S, Chiba K, Okada A, Mateos RN, Sugawa M, Iida N, Ushiama M, Tanabe N, Sakamoto H, Sekine S, Hirasawa A, Kawai Y, Tokunaga K; NCBN Controls WGS Consortium; Tsujimoto SI, Shiba N, Ito S, Yoshida T, Shiraishi Y.
 [Assessing the efficacy of target adaptive sampling long-read sequencing through hereditary cancer patient genomes](https://www.nature.com/articles/s41525-024-00394-z).
