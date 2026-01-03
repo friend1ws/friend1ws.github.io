@@ -8,6 +8,15 @@ nav_order: 1
 
 ### [](#header-3)Preprint
 
+* Yano Y, Okada A, Ono M, Mateos RN, Nakayama T, Shiraishi Y.
+[CrosSplice: A Pipeline for Identifying Rare Splice-Site Creating Variants from Cross-Tissue Transcriptome Data](https://www.medrxiv.org/content/10.64898/2025.12.21.25342246v1).
+medRxiv, doi: https://doi.org/10.64898/2025.12.21.25342246.
+
+* Shiraishi Y, Ochi Y, Sugawa M, Sakamoto Y, Kimura K, Tsujimura T, Okada A, Okuda R, Namba S, Miyauchi T, Mateos RN, Suzuki H, Chiba K, Ito Y, Nakamura W, Ohka F, Motomura K, Yamamoto T, Kawai Y, Okada Y, Suzuki H, Kato M, Saito R, Garrison E, Logsdon GA, Ogawa S.
+[Rare k-mers reveal centromere haplogroups underlying human diversity and cancer translocations](https://www.biorxiv.org/content/10.1101/2025.07.26.666712v2).
+bioRxiv, doi: https://doi.org/10.1101/2025.07.26.666712.
+[Software](https://github.com/friend1ws/ascairn).
+
 * Shiraishi Y, Chiba K, Okada A.
 [SF3B1ness score: screening SF3B1 mutation status from over 60,000 transcriptomes based on a machine learning approach](https://www.biorxiv.org/content/10.1101/572834v1).
 bioRxiv, doi: https://doi.org/10.1101/572834.
@@ -17,6 +26,10 @@ bioRxiv, doi: https://doi.org/10.1101/572834.
 
 The only peer-reviewed journals to which I have contributed as a first, co-first or corresponding author are shown.
 The more comprehensive list may be found [here](https://www.ncbi.nlm.nih.gov/pubmed/?term=Yuichi+Shiraishi).
+
+* Suzuki H, Sugawa M, Sakamoto Y, Shiraishi Y.
+[mm2-ivh: simple and precise overlap detection in alpha satellite HORs with interval hashing](https://doi.org/10.1093/bioinformatics/btaf648).
+Bioinformatics. 2025 Dec 3;btaf648.
 
 * Iida N, Okada A, Kobayashi Y, Chiba K, Yatabe Y, Shiraishi Y.
 [Systematically developing a registry of splice-site creating variants utilizing massive publicly available transcriptome sequence data](https://www.nature.com/articles/s41467-024-55185-y).
